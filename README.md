@@ -1,12 +1,12 @@
 ## Hey 👋, I'm Zach!
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column">
+<p align="center">
 <img src="https://gereltuya.com/assets/images/july-noted-wrapped.png" height="200"/>
-
+<br>
 <a href="https://linkedin.com/in/zkiser" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</div>
+</p>
 
 
 I’m a software engineer currently completing my final semester of my computer science undergrad degree!
@@ -24,7 +24,7 @@ Currently interning on a full-stack development team and taking coursework in ar
 
 Just some of the technologies I've used in the past for work, school, or personal projects 😁
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<p align="center">
 <div>
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" height="50" /></a> 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" height="50" /></a>  
@@ -53,7 +53,7 @@ Just some of the technologies I've used in the past for work, school, or persona
 <a href="https://pandas.pydata.org" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" height="50" /></a>
 <a href="https://unity.com" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" title="Unity" height="50" /></a>
 </div>
-</div>
+</p>
 
 ## 📚 What I'm Reading
 
