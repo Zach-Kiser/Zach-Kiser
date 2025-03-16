@@ -1,10 +1,12 @@
 ## Hey 👋, I'm Zach!
 
-<img src="https://gereltuya.com/assets/images/july-noted-wrapped.png" />
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column">
+<img src="https://gereltuya.com/assets/images/july-noted-wrapped.png" height="200"/>
 
 <a href="https://linkedin.com/in/zkiser" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
 </a>
+</div>
 
 
 I’m a software engineer currently completing my final semester of my computer science undergrad degree!
@@ -22,7 +24,8 @@ Currently interning on a full-stack development team and taking coursework in ar
 
 Just some of the technologies I've used in the past for work, school, or personal projects 😁
 
-<div display="flex" allign="center"> 
+<div style="display: flex; justify-content: center; align-items: center;">
+<div>
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" height="50" /></a> 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" height="50" /></a> 
@@ -49,6 +52,7 @@ Just some of the technologies I've used in the past for work, school, or persona
 <a href="https://numpy.org" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" height="50" /></a>
 <a href="https://pandas.pydata.org" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" height="50" /></a>
 <a href="https://unity.com" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" title="Unity" height="50" /></a>
+</div>
 </div>
 
 ## 📚 What I'm Reading
